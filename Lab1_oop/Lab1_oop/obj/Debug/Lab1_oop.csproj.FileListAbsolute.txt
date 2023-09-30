@@ -14,3 +14,10 @@ C:\Users\Тетяна\Desktop\Лабораторні 2 курс\OOP\Lab1_oop\Lab
 C:\Users\Тетяна\Desktop\Лабораторні 2 курс\OOP\Lab1_oop\Lab1_oop\obj\Debug\Lab1_oop.csproj.CoreCompileInputs.cache
 C:\Users\Тетяна\Desktop\Лабораторні 2 курс\OOP\Lab1_oop\Lab1_oop\obj\Debug\Lab1_oop.exe
 C:\Users\Тетяна\Desktop\Лабораторні 2 курс\OOP\Lab1_oop\Lab1_oop\obj\Debug\Lab1_oop.pdb
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab1_oop\Lab1_oop\bin\Debug\Lab1_oop.exe.config
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab1_oop\Lab1_oop\bin\Debug\Lab1_oop.exe
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab1_oop\Lab1_oop\bin\Debug\Lab1_oop.pdb
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab1_oop\Lab1_oop\obj\Debug\Lab1_oop.csproj.AssemblyReference.cache
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab1_oop\Lab1_oop\obj\Debug\Lab1_oop.csproj.CoreCompileInputs.cache
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab1_oop\Lab1_oop\obj\Debug\Lab1_oop.exe
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab1_oop\Lab1_oop\obj\Debug\Lab1_oop.pdb
