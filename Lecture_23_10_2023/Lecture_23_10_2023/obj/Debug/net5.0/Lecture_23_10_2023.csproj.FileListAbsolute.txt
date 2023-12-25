@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\bin\Debug\net5.0\Lecture_23_10_2023.exe
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\bin\Debug\net5.0\Lecture_23_10_2023.deps.json
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\bin\Debug\net5.0\Lecture_23_10_2023.runtimeconfig.json
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\bin\Debug\net5.0\Lecture_23_10_2023.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\bin\Debug\net5.0\Lecture_23_10_2023.dll
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\bin\Debug\net5.0\ref\Lecture_23_10_2023.dll
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\bin\Debug\net5.0\Lecture_23_10_2023.pdb
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\obj\Debug\net5.0\Lecture_23_10_2023.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\obj\Debug\net5.0\Lecture_23_10_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\obj\Debug\net5.0\Lecture_23_10_2023.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\obj\Debug\net5.0\Lecture_23_10_2023.AssemblyInfo.cs
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\obj\Debug\net5.0\Lecture_23_10_2023.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\obj\Debug\net5.0\Lecture_23_10_2023.dll
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\obj\Debug\net5.0\ref\Lecture_23_10_2023.dll
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\obj\Debug\net5.0\Lecture_23_10_2023.pdb
+C:\Users\User\source\repos\Lecture_23_10_2023\Lecture_23_10_2023\obj\Debug\net5.0\Lecture_23_10_2023.genruntimeconfig.cache

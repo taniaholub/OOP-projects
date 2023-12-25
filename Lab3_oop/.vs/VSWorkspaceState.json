@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Accounts",
-    "\\bin",
     "\\DB",
-    "\\Games",
-    "\\obj"
+    "\\Games"
   ],
+  "SelectedNode": "\\Games\\Game.cs",
   "PreviewInSolutionExplorer": false
 }

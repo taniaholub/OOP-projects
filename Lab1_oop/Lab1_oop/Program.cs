@@ -18,7 +18,7 @@ namespace Lab1_oop
 
             bool continuePlaying = true;
 
-            Console.WriteLine("За перемогу +10 очків, за поразку -10 очків:");
+            Console.WriteLine("За перемогу +50 очків, за поразку -50 очків:");
             while (continuePlaying)
             {
                 // Гравці грають один проти одного

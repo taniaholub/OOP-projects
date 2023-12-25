@@ -1,0 +1,14 @@
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\bin\Debug\net6.0\Lab4_oop.exe
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\bin\Debug\net6.0\Lab4_oop.deps.json
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\bin\Debug\net6.0\Lab4_oop.runtimeconfig.json
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\bin\Debug\net6.0\Lab4_oop.dll
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\bin\Debug\net6.0\Lab4_oop.pdb
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\obj\Debug\net6.0\Lab4_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\obj\Debug\net6.0\Lab4_oop.AssemblyInfoInputs.cache
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\obj\Debug\net6.0\Lab4_oop.AssemblyInfo.cs
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\obj\Debug\net6.0\Lab4_oop.csproj.CoreCompileInputs.cache
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\obj\Debug\net6.0\Lab4_oop.dll
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\obj\Debug\net6.0\refint\Lab4_oop.dll
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\obj\Debug\net6.0\Lab4_oop.pdb
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\obj\Debug\net6.0\Lab4_oop.genruntimeconfig.cache
+C:\Users\Тетяна\Desktop\Лаби 2 курс\OOP-projects\Lab4_oop\obj\Debug\net6.0\ref\Lab4_oop.dll

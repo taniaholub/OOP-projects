@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lecture_23_10_2023_Alt/1.0.0": {
+        "runtime": {
+          "Lecture_23_10_2023_Alt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lecture_23_10_2023_Alt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

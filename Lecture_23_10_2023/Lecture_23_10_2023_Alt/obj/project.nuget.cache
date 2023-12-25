@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2BUU9HQWbSNc+xDr7/yvJCk0XLMcpHWzqEzHA3eYAoUhkwlv6pXBV1WjtcN69OU/A3cItKsyGl3nqXM1p+VSGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Тетяна\\Desktop\\Лаби 2 курс\\OOP-projects\\Lecture_23_10_2023\\Lecture_23_10_2023_Alt\\Lecture_23_10_2023_Alt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Тетяна\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Тетяна\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Тетяна\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Тетяна\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
